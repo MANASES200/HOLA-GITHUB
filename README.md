@@ -6,3 +6,4 @@ i love :tv:, :cake:, :hamburger:, :pizza:, :spaghetti:, :icecream:, :bike:, :run
 También me gusta aprender cosas nuevas y superarme.
 
 agregamos otra linea
+y commiteamos
